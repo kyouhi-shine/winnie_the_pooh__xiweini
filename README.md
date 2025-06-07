@@ -12,7 +12,7 @@
         display: flex; flex-wrap: wrap;
       }
 
-      .list p {
+      .list > p {
         flex: 0 0 20%;
       }
     </style>
